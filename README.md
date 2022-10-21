@@ -1,2 +1,2 @@
 # myPortfolio
-Meu portfólio pessoal. Criado em Html5 e CSS3.
+Meu portfólio pessoal. Aplicando os estudos com Html5 e CSS3.
